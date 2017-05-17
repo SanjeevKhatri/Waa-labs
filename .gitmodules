@@ -1,0 +1,15 @@
+[submodule "WAA-lab-4"]
+	path = WAA-lab-4
+	url = https://github.com/SanjeevKhatri/WAA-lab-4
+[submodule "WAA-lab-3"]
+	path = WAA-lab-3
+	url = https://github.com/SanjeevKhatri/WAA-lab-3
+[submodule "WAA-lab-2"]
+	path = WAA-lab-2
+	url = https://github.com/SanjeevKhatri/WAA-lab-2
+[submodule "WAA-lab-1-Using-Spring-MVC"]
+	path = WAA-lab-1-Using-Spring-MVC
+	url = https://github.com/SanjeevKhatri/WAA-lab-1-Using-Spring-MVC
+[submodule "WAA-lab-1-Using-JSP-Servlet"]
+	path = WAA-lab-1-Using-JSP-Servlet
+	url = https://github.com/SanjeevKhatri/WAA-lab-1-Using-JSP-Servlet
